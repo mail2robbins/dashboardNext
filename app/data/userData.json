@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "username": "Robin Thomas",
+    "email": "robin@gmail.com",
+    "createdAt": "Jan 01, 2023",
+    "isAdmin": true,
+    "isActive": true,
+    "img": ""
+  },
+  {
+    "id": "2",
+    "username": "John Doe",
+    "email": "john@gmail.com",
+    "createdAt": "Mar 21, 2023",
+    "isAdmin": false,
+    "isActive": true,
+    "img": ""
+  },
+  {
+    "id": "3",
+    "username": "Sooraj Mathew",
+    "email": "Sooraj@gmail.com",
+    "createdAt": "Dec 17, 2021",
+    "isAdmin": false,
+    "isActive": false,
+    "img": ""
+  }
+]
